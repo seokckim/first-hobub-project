@@ -6,6 +6,7 @@ class Program
     {
         int row = 0;
 
+        // test program...
         do
         {
             if (row == 0 || row >= 25)
